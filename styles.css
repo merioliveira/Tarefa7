@@ -6,11 +6,12 @@
 }
 
 .container{
- height: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
- align-content: space-between;
+
+display: inline-block;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+
   
 }
 
